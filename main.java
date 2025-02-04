@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class TaskSchedulerCode {
+public class main {
 
     // List to store tasks
     static List<String> tasks = new ArrayList<>();
